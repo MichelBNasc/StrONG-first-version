@@ -17,58 +17,57 @@
 
 <p> | Ao entrar na página inicial, clicando em [Registre-se].</p>
 
-![plot](https://github.com/MichelBNasc/Ridhe.Up/blob/main/img/telas/1como_utilizar.jpg)
+![plot](https://github.com/MichelBNasc/strONG/blob/main/img/icons/TELAS/01COMO_UTILIZAR.jpg)
 
 <p> | Será redirecionado para o página de registro.</p>
 
-![plot](https://github.com/MichelBNasc/Ridhe.Up/blob/main/img/telas/registro_home.jpeg)
+![plot](https://github.com/MichelBNasc/strONG/blob/main/img/icons/TELAS/02COMO_UTILIZAR.jpeg)
 
-<p> | Clicando em [Registrar Herói] para abrir os campos de registro.</p>
+<p> | Clicando em [Registrar-se] para abrir os campos de registro.</p>
 
-![plot](https://github.com/MichelBNasc/Ridhe.Up/blob/main/img/telas/2como_utilizar.jpg)
-![plot](https://github.com/MichelBNasc/Ridhe.Up/blob/main/img/telas/registro_registrando_heroi.jpeg)
+![plot](https://github.com/MichelBNasc/strONG/blob/main/img/icons/TELAS/03COMO_UTILIZAR.jpeg)
+![plot](https://github.com/MichelBNasc/strONG/blob/main/img/icons/TELAS/04COMO_UTILIZAR.jpeg)
 
 <p> | Clicando em [Editar] para fazer o upload da imagem.</p>
 
-![plot](https://github.com/MichelBNasc/Ridhe.Up/blob/main/img/telas/3como_utilizar.jpg)
-![plot](https://github.com/MichelBNasc/Ridhe.Up/blob/main/img/telas/registro_upando_imagem.jpeg)
+![plot](https://github.com/MichelBNasc/strONG/blob/main/img/icons/TELAS/05COMO_UTILIZAR.jpeg)
+![plot](https://github.com/MichelBNasc/strONG/blob/main/img/icons/TELAS/06COMO_UTILIZAR.jpeg)
 
 <p> | Ou clicar em [X] para remover a imagem.</p>
 
-![plot](https://github.com/MichelBNasc/Ridhe.Up/blob/main/img/telas/4como_utilizar.jpg)
+![plot](https://github.com/MichelBNasc/strONG/blob/main/img/icons/TELAS/07COMO_UTILIZAR.jpeg)
 
-<p> | Preencha os campos com os dados do herói.</p>
+<p> | Preencha os campos com os dados do Voluntário/Ong.</p>
 
-![plot](https://github.com/MichelBNasc/Ridhe.Up/blob/main/img/telas/registro_campos_vazios.jpeg)
+![plot](https://github.com/MichelBNasc/strONG/blob/main/img/icons/TELAS/08COMO_UTILIZAR.jpeg)
 
 <p> | Caso os campos não forem preenchidos o HTML notificara.</p>
 
-![plot](https://github.com/MichelBNasc/Ridhe.Up/blob/main/img/telas/registro_preencher_campos.jpeg)
+![plot](https://github.com/MichelBNasc/strONG/blob/main/img/icons/TELAS/09COMO_UTILIZAR.jpeg)
 
 <p> | Logo após clicando em [registrar].</p>
 
-![plot](https://github.com/MichelBNasc/Ridhe.Up/blob/main/img/telas/5como_utilizar.jpg)
+![plot](https://github.com/MichelBNasc/strONG/blob/main/img/icons/TELAS/10COMO_UTILIZAR.jpeg)
 
 <p> | Caso queira cancelar o registro basta clicar em [X] ou [cancelar].</p>
   
-![plot](https://github.com/MichelBNasc/Ridhe.Up/blob/main/img/telas/6como_utilizar.jpg)
+![plot](https://github.com/MichelBNasc/strONG/blob/main/img/icons/TELAS/11COMO_UTILIZAR.jpeg)
 
-<p> | Para editar/excluir o perfil do herói selecionado, utilize os botões de Ações a direita.</p>
+<p> | Para editar/excluir o perfil selecionado, utilize os botões de Ações a direita.</p>
 
-![plot](https://github.com/MichelBNasc/Ridhe.Up/blob/main/img/telas/7como_utilizar.jpg)
+![plot](https://github.com/MichelBNasc/strONG/blob/main/img/icons/TELAS/12COMO_UTILIZAR.jpeg)
 
-<p> | Caso escolha editar, será redirecionado a tela de registro do herói selecionado.</p>
+<p> | Caso escolha editar, será redirecionado a tela do registro selecionado.</p>
 
-![plot](https://github.com/MichelBNasc/Ridhe.Up/blob/main/img/telas/registro_editando%20heroi.jpeg)
+![plot](https://github.com/MichelBNasc/strONG/blob/main/img/icons/TELAS/13COMO_UTILIZAR.jpeg)
 
 <p> | Caso escolha excluir, então abrirá uma janela de confirmação.</p>
 
-![plot](https://github.com/MichelBNasc/Ridhe.Up/blob/main/img/telas/registro_editando%20heroi.jpeg)
+![plot](https://github.com/MichelBNasc/strONG/blob/main/img/icons/TELAS/14COMO_UTILIZAR.jpeg)
 
-<p> | Para a filtragem dos "poderes" do herói utilize o campo [Buscar Poderes].</p>
+<p> | Para a filtragem de Voluntários e Ongs utilize o campo [Buscar].</p>
 
-![plot](https://github.com/MichelBNasc/Ridhe.Up/blob/main/img/telas/8como_utilizar.jpg)
-![plot](https://github.com/MichelBNasc/Ridhe.Up/blob/main/img/telas/registro_buscar.jpeg)
+![plot](https://github.com/MichelBNasc/strONG/blob/main/img/icons/TELAS/15COMO_UTILIZAR.jpeg)
 
 
 
